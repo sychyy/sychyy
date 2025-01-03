@@ -9,7 +9,9 @@
 </div>
 
 <p align="center">
-  ![Your Image Description](<insert https://i.ibb.co.com/bWZKGhw/fk.jpg>)
+  <img src="https://i.ibb.co.com/bWZKGhw/fk.jpg" alt="Ghibli Boys" />
+  <br />
+  <i>ghibli boys🌵</i>
 </p>
 
 ## 🪵 Socials:
