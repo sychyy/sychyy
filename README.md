@@ -1,6 +1,6 @@
 # SycheBotz - WhatsApp Bot
 
-![SycheBotz Logo](link-ke-foto-anda)
+![SycheBotz Logo](https://i.ibb.co.com/80vgHcb/da94839bde2029eb7b89ff64174bb270.jpg)
 
 ## 🌐 概要 | Overview
 SycheBotz は、WhatsApp 上で動作する効率的で多機能なボットです。自動応答、カスタム機能、そして便利なツールを通じて、ユーザーのニーズを満たすように設計されています。
