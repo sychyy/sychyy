@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  ![Your Image Description](<https://i.ibb.co.com/bWZKGhw/fk.jpg>)
+  ![Your Image Description](<insert https://i.ibb.co.com/bWZKGhw/fk.jpg>)
 </p>
 
 ## 🪵 Socials:
