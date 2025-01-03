@@ -1,48 +1,24 @@
-# 🌌 SycheBotz - WhatsApp Bot
 
-<img src="https://i.ibb.co/80vgHcb/da94839bde2029eb7b89ff64174bb270.jpg" alt="SycheBotz Logo" width="200">
+## ðŸŒ Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yoed4.86) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/yuda) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@syncheya) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sychyy's) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sychyy00) 
 
----
+# ðŸ’» Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# ðŸ“Š GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sychyy&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sychyy&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sychyy&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🌐 概要 | Overview  
-<p style="color:#0288d1;">SycheBotz は、WhatsApp 上で動作する効率的で多機能なボットです。  
-自動応答、カスタム機能、そして便利なツールを通じて、ユーザーのニーズを満たすように設計されています。</p>
+## ðŸ† GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sychyy&theme=neon&no-frame=false&no-bg=true&margin-w=4)
 
-<p style="color:#0288d1;">SycheBotz is an efficient and multifunctional bot operating on WhatsApp.  
-Designed to meet user needs through auto-responses, custom features, and useful tools.</p>
+### âœï¸ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
----
-
-## 🛠️ 主な機能 | Key Features  
-<ul style="color:#0288d1;">
-    <li>💬 自動応答 | Auto-responses</li>
-    <li>⚙️ カスタムコマンドのサポート | Custom command support</li>
-    <li>🚀 高速で信頼性のあるパフォーマンス | Fast and reliable performance</li>
-    <li>🔧 簡単な設定と管理 | Easy setup and management</li>
-</ul>
+### ðŸ” Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sychyy&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=sychyy&icon=8&color=1)](https://visitcount.itsvg.in)
 
-## 📂 プロジェクトリンク | Project Links  
-<p style="color:#0288d1;">
-    <a href="https://github.com/sychyy" style="color:#0288d1;">🌟 開発者 GitHub プロフィール</a><br>
-    <a href="https://github.com/sychyy/sychee" style="color:#0288d1;">📦 SycheBotz リポジトリ</a>
-</p>
-
----
-
-## 📸 写真を追加 | Add Photos  
-<p style="color:#0288d1;">以下のリンクをクリックして写真を追加してください。<br>
-Please add your photo by replacing the link above.</p>
-
----
-
-## 🤝 コントリビューション | Contribution  
-<p style="color:#0288d1;">このプロジェクトに貢献したい方は、Pull Request を送信してください！<br>
-If you'd like to contribute to this project, feel free to submit a pull request!</p>
-
----
-
-## 📧 お問い合わせ | Contact  
-<p style="color:#0288d1;">質問や提案があれば、<a href="https://github.com/sychyy" style="color:#0288d1;">GitHub プロフィール</a> を通じてご連絡ください。<br>
-For questions or suggestions, please contact me through my <a href="https://github.com/sychyy" style="color:#0288d1;">GitHub profile</a>.</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
