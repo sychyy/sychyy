@@ -1,8 +1,15 @@
-## <p align="center"><marquee style="color:blue;">Hi, I'm SychyyDev</marquee></p>
-## <p align="center"><marquee style="color:blue;">I'm Developer Bot WhatsApp 🤖</marquee></p>
+<div align="center">
+<a href="https://youtube.com/@sychyy00">
+    <img
+        src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=f70787&background=FF673200&center=true&vCenter=true&lines=Hello,+I+am+SychyyDev;I+am+is+a+developer+bot+whatsapp⚡"
+            alt="Typing SVG"
+        />
+    </a>
+</p>
+</div>
 
 <p align="center">
-  ![Your Image Description](<insert your image link here>)
+  ![Your Image Description](<https://i.ibb.co.com/bWZKGhw/fk.jpg>)
 </p>
 
 ## 🪵 Socials:
