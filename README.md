@@ -1,37 +1,42 @@
-# Hello, I'm **sychyy** 👋
+# こんにちは、私は **sychyy** です！ 👋
 
-Welcome to my GitHub profile! I'm a developer and I love creating cool projects.
+Welcome to my GitHub profile! I'm a developer passionate about creating innovative projects. Currently, I'm working on a WhatsApp bot using **JavaScript**. Below you'll find information about me and my projects.
 
 ---
 
-### 🌸 About Me:
-I am currently developing a WhatsApp bot called **sycheBotz**. It's a project where I'm combining my interest in automation and communication tools. I enjoy working on creative coding challenges, and I try to push my limits by learning new technologies.
+### 💻 **About Me** / 私について:
+I am a developer from [sychee](https://github.com/sychyy/sychee), building a **WhatsApp bot** called **sycheBotz** using **JavaScript**. My goal is to make automation through WhatsApp simpler and more efficient.
+
+私は **sycheBotz** という **JavaScript** を使ったWhatsAppボットの開発者です。WhatsAppを使った自動化を簡単で効率的にすることが目標です。
 
 - **GitHub Username**: [sychyy](https://github.com/sychyy)
-- **Main Project**: [sycheBotz](https://github.com/sychyy/sycheBotz)  
+- **Main Project**: [sycheBotz](https://github.com/sychyy/sycheBotz)
 - **Favorite Color**: Sky Blue 🌤️
 
 ---
 
-### 🌟 My Projects:
+### 🛠️ **My Projects** / 私のプロジェクト:
 
 #### 🦄 [sycheBotz](https://github.com/sychyy/sycheBotz)
-A WhatsApp bot that I’m building to make automation fun and easy. It will allow you to perform various tasks directly through WhatsApp. More updates to come!
+A WhatsApp bot built with **JavaScript** that automates various tasks directly via WhatsApp. This project is under constant development.
+
+#### 🌿 [sychee](https://github.com/sychyy/sychee)
+Another project that expands my development skills, focused on creating scalable systems and enhancing my coding expertise.
 
 ---
 
-### 🎨 Aesthetic & Fun!
+### 🌅 **Sky Blue Aesthetic** / 空色の美学:
 
-I am inspired by Studio Ghibli's magical worlds. 🌸✨ And I love integrating dreamy, soft designs with a touch of sky-blue vibes. A bit of a **Ghibli boy** at heart. 
+Inspired by serene skies and tranquil landscapes, I love incorporating **sky blue** into my projects to create a peaceful and calming experience.
 
-![Ghibli Sky](https://images.unsplash.com/photo-1493839138769-0166cf16a4fc)
+![Beautiful Landscape](https://link-to-your-image.com)
 
 ---
 
-### 📧 Let's Connect!
+### 📞 **Let's Connect!** / 連絡を取りましょう！
 - **Twitter**: [@sychyy_dev](https://twitter.com/sychyy_dev)
 - **Email**: contact@sychyy.dev
 
 ---
 
-> "In the end, all we have is the code we write and the projects we create. Let's make something beautiful." - sychyy
+> "Code is a language we speak to create the world we want to live in." - sychyy
